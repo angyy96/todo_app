@@ -1,0 +1,17 @@
+.todoDone {
+  text-decoration: line-through;
+  font-style: italic;
+  color: gray;
+}
+
+.list-group-item {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+button {
+  float: right;
+}
+
+/*# sourceMappingURL=main.css.map */
